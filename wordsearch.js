@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 // Pair programming done with Sylas Serne:
 //  - Forward horizontal and vertical versions coded together.
-//  - Backward versions continued on my own.
+//  - Backward and diagonal versions continued on my own.
 
 //------------------------------------------------------------------------------
 // Helper functions for matrices
